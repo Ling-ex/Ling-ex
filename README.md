@@ -41,10 +41,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ling-ex&theme=radical&hide_border=true" alt="Rizki's GitHub Streak" />
-</p>
-
-<p align="center">
   <a href="https://github.com/Ling-ex">
     <img src="https://github-profile-trophy.vercel.app/?username=Ling-ex&row=2&column=3&theme=onedark" alt="Rizki's GitHub Trophies"/>
   </a>
