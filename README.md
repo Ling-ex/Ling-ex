@@ -28,35 +28,6 @@ Currently building with **Python** and **Go**, and getting serious about **Kuber
 
 ---
 
-### Featured
-
-<p align="center">
-  <a href="https://github.com/Ling-ex/Amateur">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ling-ex&repo=Amateur&theme=radical&hide_border=true" alt="Amateur" />
-  </a>
-  <a href="https://github.com/Ling-ex/gitoauth">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ling-ex&repo=gitoauth&theme=radical&hide_border=true" alt="gitoauth" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Ling-ex/gobiz">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ling-ex&repo=gobiz&theme=radical&hide_border=true" alt="gobiz" />
-  </a>
-  <a href="https://github.com/Ling-ex/bot-jadwalpin">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ling-ex&repo=bot-jadwalpin&theme=radical&hide_border=true" alt="bot-jadwalpin" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Ling-ex/api">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ling-ex&repo=api&theme=radical&hide_border=true" alt="api" />
-  </a>
-  <a href="https://github.com/Ling-ex/nexus-sub">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Ling-ex&repo=nexus-sub&theme=radical&hide_border=true" alt="nexus-sub" />
-  </a>
-</p>
-
----
-
 ### Stats
 
 <p align="center">
@@ -77,7 +48,7 @@ Currently building with **Python** and **Go**, and getting serious about **Kuber
 ### Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ling-ex&theme=redical&hide_border=true&area=true" alt="activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ling-ex&theme=radical&hide_border=true&area=true" alt="activity" />
 </p>
 
 ---
