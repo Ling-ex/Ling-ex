@@ -13,7 +13,7 @@
 
 ---
 
-## ⚡ About Me
+## ⚡ About
 
 ```
 📍 Based in Indonesia
@@ -21,69 +21,47 @@
 🤖 Building Telegram bots, APIs, and the infra behind them
 🔧 Python & Go daily, TypeScript when needed
 ☁️  Kubernetes · Terraform · AWS · Docker
-🎯 Philosophy: ship boring code that works at 3am
 ```
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 
 **Infrastructure**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
 **Databases & Tools**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</div>
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-![Followers](https://img.shields.io/github/followers/Ling-ex?style=flat-square&theme=radical&label=Followers)
-![Stars](https://img.shields.io/github/stars/Ling-ex?style=flat-square&theme=radical&label=Stars)
-
-![Last Commit](https://img.shields.io/github/last-commit/Ling-ex/Amateur?style=flat-square&theme=radical&label=Last+Commit)
-![Top Language](https://img.shields.io/github/languages/top/Ling-ex/Amateur?style=flat-square&theme=radical&label=Top+Language)
-
-</div>
+![Followers](https://img.shields.io/github/followers/Ling-ex?style=flat-square&label=Followers)
+![Stars](https://img.shields.io/github/stars/Ling-ex?style=flat-square&label=Stars)
 
 ---
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-</div>
 
 ---
 
-<div align="center">
-
 > *"Ship boring code that works at 3am."*
-
-</div>
