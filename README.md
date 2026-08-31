@@ -4,9 +4,6 @@
 
 ### `@pureopcode` · Software Developer from Indonesia 🇮🇩
 
-<a href="https://t.me/pureopcode"><img src="https://skillicons.dev/icons?i=telegram" height="50" alt="Telegram" /></a>
-<a href="https://github.com/Ling-ex"><img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" /></a>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2CA5E0&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Software+Developer;Building+things+that+actually+work;Python+%C2%B7+Go+%C2%B7+TypeScript" alt="typing-svg" />
 
 </div>
