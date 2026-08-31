@@ -2,12 +2,12 @@
 
 # Hi, I'm Rizki Maulana 👋
 
+### `@pureopcode` · Software Developer from Indonesia 🇮🇩
+
+<a href="https://t.me/pureopcode"><img src="https://skillicons.dev/icons?i=telegram" height="50" alt="Telegram" /></a>
+<a href="https://github.com/Ling-ex"><img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" /></a>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2CA5E0&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Software+Developer;Building+things+that+actually+work;Python+%C2%B7+Go+%C2%B7+TypeScript" alt="typing-svg" />
-
-[![Telegram](https://img.shields.io/badge/Telegram-%40pureopcode-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pureopcode)
-[![GitHub](https://img.shields.io/badge/GitHub-Ling--ex-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ling-ex)
-
-![Profile views](https://komarev.com/ghpvc/?username=Ling-ex&color=2CA5E0&style=flat-square)
 
 </div>
 
@@ -16,7 +16,6 @@
 ## ⚡ About
 
 ```
-📍 Based in Indonesia
 💻 Full-stack developer who ships real products
 🤖 Building Telegram bots, APIs, and the infra behind them
 🔧 Python & Go daily, TypeScript when needed
@@ -53,8 +52,8 @@
 
 ## 📊 GitHub Stats
 
-![Followers](https://img.shields.io/github/followers/Ling-ex?style=flat-square&label=Followers)
-![Stars](https://img.shields.io/github/stars/Ling-ex?style=flat-square&label=Stars)
+![Followers](https://img.shields.io/github/followers/Ling-ex?style=flat-square&label=Followers&color=2CA5E0)
+![Stars](https://img.shields.io/github/stars/Ling-ex?style=flat-square&label=Stars&color=2CA5E0)
 
 ---
 
@@ -64,4 +63,10 @@
 
 ---
 
+<div align="center">
+
 > *"Ship boring code that works at 3am."*
+
+![Profile views](https://komarev.com/ghpvc/?username=Ling-ex&color=2CA5E0&style=flat-square&label=Profile+Views)
+
+</div>
