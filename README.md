@@ -2,26 +2,10 @@
 
 # Hi, I'm Rizki Maulana 👋
 
-### `@pureopcode` · Software Developer from Indonesia 🇮🇩
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2CA5E0&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Software+Developer;Building+things+that+actually+work;Python+%C2%B7+Go+%C2%B7+TypeScript" alt="typing-svg" />
 
-</div>
-
----
-
-## 🌐 Social Media
-
-<div align="center">
-
-<a href="https://t.me/pureopcode"><img src="https://skillicons.dev/icons?i=telegram" height="55" alt="Telegram" /></a>
-<a href="https://instagram.com/rizki.maulna_"><img src="https://skillicons.dev/icons?i=instagram" height="55" alt="Instagram" /></a>
-
-</div>
-
-<div align="center">
-
-[`@pureopcode`](https://t.me/pureopcode) · [`@rizki.maulna_`](https://instagram.com/rizki.maulna_)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?logo=telegram&logoColor=white&style=flat-square)](https://t.me/pureopcode)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://instagram.com/rizki.maulna_)
 
 </div>
 
