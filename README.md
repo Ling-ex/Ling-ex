@@ -6,8 +6,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2CA5E0&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Software+Developer;Building+things+that+actually+work;Python+%C2%B7+Go+%C2%B7+TypeScript" alt="typing-svg" />
 
-[![Telegram](https://img.shields.io/badge/%F%9F%94%A5_Telegram-%40pureopcode-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1A1A2E)](https://t.me/pureopcode)
-[![GitHub](https://img.shields.io/badge/%F%9F%92%A1_GitHub-Ling--ex-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A2E)](https://github.com/Ling-ex)
+[![Telegram](https://img.shields.io/badge/Telegram-@pureopcode-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pureopcode)
+[![GitHub](https://img.shields.io/badge/GitHub-Ling--ex-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ling-ex)
 
 ![Profile views](https://komarev.com/ghpvc/?username=Ling-ex&color=2CA5E0&style=flat-square)
 
@@ -64,11 +64,9 @@
 
 <div align="center">
 
-![Ling-ex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ling-ex&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&bg_color=0e0e1a&title_color=2CA5E0&icon_color=2CA5E0)
+![Ling-ex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ling-ex&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ling-ex&layout=compact&theme=radical&hide_border=true&bg_color=0e0e1a&title_color=2CA5E0&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ling-ex&theme=radical&hide_border=true&background=0e0e1a&stroke=2CA5E0&ring=2CA5E0&fire=FF6B6B&currStreakLabel=2CA5E0)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ling-ex&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 </div>
 
@@ -78,7 +76,7 @@
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Ling-ex&theme=radical&row=1&column=7&no-bg=true&no-frame=true&margin-w=10)
+![trophy](https://github-profile-trophy.vercel.app/?username=Ling-ex&theme=radical&row=1&column=7&no-frame=true&margin-w=10)
 
 </div>
 
@@ -88,7 +86,7 @@
 
 <div align="center">
 
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ling-ex&theme=radical&hide_border=true&area=true&bg_color=0e0e1a&color=2CA5E0)
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ling-ex&theme=radical&hide_border=true&area=true)
 
 </div>
 
@@ -108,6 +106,6 @@
 
 > *"Ship boring code that works at 3am."*
 
-![Footer](https://komarev.com/ghpvc/?username=Ling-ex&color=2CA5E0&style=flat-square&label=Profile+Views)
+![Profile views](https://komarev.com/ghpvc/?username=Ling-ex&color=2CA5E0&style=flat-square)
 
 </div>
