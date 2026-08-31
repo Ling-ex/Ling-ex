@@ -62,16 +62,11 @@
 
 <div align="center">
 
-![Stars](https://img.shields.io/github/stars/Ling-ex?style=flat-square&theme=radical&label=Stars)
 ![Followers](https://img.shields.io/github/followers/Ling-ex?style=flat-square&theme=radical&label=Followers)
-![Repos](https://img.shields.io/github/repos/Ling-ex?style=flat-square&theme=radical&label=Repos)
-![Last Commit](https://img.shields.io/github/last-commit/Ling-ex?style=flat-square&theme=radical&label=Last%20Commit)
+![Stars](https://img.shields.io/github/stars/Ling-ex?style=flat-square&theme=radical&label=Stars)
 
-</div>
-
-<div align="center">
-
-![Top Language](https://img.shields.io/github/languages/top/Ling-ex?style=for-the-badge&theme=radical&label=Most%20Used%20Language)
+![Last Commit](https://img.shields.io/github/last-commit/Ling-ex/Amateur?style=flat-square&theme=radical&label=Last+Commit)
+![Top Language](https://img.shields.io/github/languages/top/Ling-ex/Amateur?style=flat-square&theme=radical&label=Top+Language)
 
 </div>
 
