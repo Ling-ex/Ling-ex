@@ -10,6 +10,23 @@
 
 ---
 
+## 🌐 Social Media
+
+<div align="center">
+
+<a href="https://t.me/pureopcode"><img src="https://skillicons.dev/icons?i=telegram" height="55" alt="Telegram" /></a>
+<a href="https://instagram.com/rizki.maulna_"><img src="https://skillicons.dev/icons?i=instagram" height="55" alt="Instagram" /></a>
+
+</div>
+
+<div align="center">
+
+[`@pureopcode`](https://t.me/pureopcode) · [`@rizki.maulna_`](https://instagram.com/rizki.maulna_)
+
+</div>
+
+---
+
 ## ⚡ About
 
 ```
